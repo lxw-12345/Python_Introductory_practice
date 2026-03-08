@@ -1,0 +1,19 @@
+# 忽略 IDEA 配置文件夹
+.idea/
+
+# 忽略 IDEA 模块文件
+*.iml
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 忽略虚拟环境
+venv/
+env/
+.env/
